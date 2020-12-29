@@ -1,2 +1,4 @@
 # Star-Wars-Survey
-More practice on data science. Basic Star Wars survey analysis
+Simple project that uses a survey on Star Wars fans and asks them to rank movies.
+
+More Practice visualizing, cleaning, and analyzing data.
